@@ -8,9 +8,8 @@ The aim is to practice visualizations and Machine learning concepts.
 1. Install jupyter notebook
 2. Load the dataset from _kaggle_ or from _sklearn_ as below:
 
-`from sklearn import datasets
-
-iris = datasets.load_iris()`
+`from sklearn import datasets`
+`iris = datasets.load_iris()`
 
 3. Import the necessary libraries:
 * **Pandas**: For data manipulation and analysis.
