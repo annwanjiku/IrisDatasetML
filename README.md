@@ -7,8 +7,11 @@ The aim is to practice visualizations and Machine learning concepts.
 # PROJECT REQUIREMENTS
 1. Install jupyter notebook
 2. Load the dataset from _kaggle_ or from _sklearn_ as below:
+
 `from sklearn import datasets
+
 iris = datasets.load_iris()`
+
 3. Import the necessary libraries:
 * **Pandas**: For data manipulation and analysis.
 * **Matplotlib**: For creating visualizations.
@@ -18,11 +21,11 @@ iris = datasets.load_iris()`
 5. Create models
 6. Report findings
 
-The findings of this project can be found in the jupyter notebook
+The findings of this project can be found in the jupyter notebook.
 
 # PROJECT IMPROVEMENTS
-Find a dataset with more irises'.
-Improve performance of the models.
+- Find a dataset with more irises'.
+- Improve performance of the models.
 
 # REFERENCES
 [(https://jupyter.org/)]
