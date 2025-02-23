@@ -20,14 +20,8 @@ The aim is to practice visualizations and Machine learning concepts.
 5. Create models
 6. Report findings
 
-The findings of this project can be found in the jupyter notebook.
 
-# PROJECT IMPROVEMENTS
-- Find a dataset with more irises'.
-- Improve performance of the models.
 
-# REFERENCES
-[(https://jupyter.org/)]
 
 
 
