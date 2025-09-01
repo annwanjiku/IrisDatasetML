@@ -1,10 +1,10 @@
-# THE IRIS DATASET
+# The Iris Dataset
 The iris dataset is a dataset of 150 entries without null values.
 An Iris is a genus of about 300 species of plants.In this specific dataset we focus on 3 flowers: **Virginica**,**Versicolor** and **Setosa** each with 50 entries.
 There are 5 columns Sepal length and width,Petal length and width and the specie for each of the 4 features.
 The aim is to practice visualizations and Machine learning concepts.
 
-# PROJECT REQUIREMENTS
+# Project requirements
 1. Install jupyter notebook
 2. Load the dataset from _kaggle_ or from _sklearn_ as below:
 
